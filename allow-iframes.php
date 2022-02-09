@@ -36,6 +36,6 @@ function allow_iframes( $allowedposttags ){
 	return $allowedposttags;
 }
 
-add_filter( 'wp_kses_allowed_html', allow_iframes, 1 );
+add_filter( 'wp_kses_allowed_html', 'allow_iframes', 1 );
 
 ?>
