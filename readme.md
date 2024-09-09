@@ -8,4 +8,4 @@ Please note that stripping iframes may actually be a desired behavior for securi
 
 ## Installation
 
-Clone this project into your `wp-includes/plugins` folder, then activate the plugin within the WordPress plugins menu.
+Clone this project into your `wp-content/plugins` folder, then activate the plugin within the WordPress plugins menu.
